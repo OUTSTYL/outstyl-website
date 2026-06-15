@@ -458,7 +458,7 @@ export default function App() {
             </div>
           </div>
           <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-sm text-app-text-secondary">
-            <p>© 2024 OutStyl. All rights reserved.</p>
+            {/* <p>© 2024 OutStyl. All rights reserved.</p> */}
             <div className="flex gap-8">
               <p>App coming soon</p>
               <p>Privacy Policy</p>
