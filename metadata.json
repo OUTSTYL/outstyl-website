@@ -1,0 +1,6 @@
+{
+  "name": "OutStyl",
+  "description": "A modern AI fashion discovery app that learns your style through swipes and offers personalized outfit recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
